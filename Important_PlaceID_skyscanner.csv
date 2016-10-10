@@ -337,7 +337,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 11774;ZBL-sky;Biloela;ZBLA-sky;Biloela;AU-sky;Australia
 20073;BMU-sky;Bima;BMUI-sky;Bima;ID-sky;Indonesia
 14433;BIM-sky;Bimini International;BIMA-sky;Bimini;BS-sky;Bahamas
-808;BGG-sky;Bing̦l;BING-sky;NULL;TR-sky;Turkey
+808;BGG-sky;BingÌ¦l;BING-sky;NULL;TR-sky;Turkey
 9628;BGM-sky;Binghamton;BGMA-sky;Binghamton;US-sky;United States
 2739;BTU-sky;Bintulu;BTUM-sky;Bintulu;MY-sky;Malaysia
 5028;BIR-sky;Biratnagar;BIRA-sky;Biratnagar;NP-sky;Nepal
@@ -402,7 +402,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 810;BDS-sky;Brindisi;BRIN-sky;Brindisi;IT-sky;Italy
 1499;BNE-sky;Brisbane;BNEA-sky;Brisbane;AU-sky;Australia
 2114;BRS-sky;Bristol;BRIS-sky;Bristol;UK-sky;United Kingdom
-536;BVE-sky;Brive Vall̩e de la Dordogne;BRIV-sky;Brive-La-Gaillarde;FR-sky;France
+536;BVE-sky;Brive VallÌ©e de la Dordogne;BRIV-sky;Brive-La-Gaillarde;FR-sky;France
 811;BRQ-sky;Brno-Turany;BRNO-sky;Brno;CZ-sky;Czech Republic
 829;BHQ-sky;Broken Hill;BHQA-sky;Broken Hill;AU-sky;Australia
 824;BNN-sky;Bronnoysund Bronnoy;BRON-sky;Bronnoysund;NO-sky;Norway
@@ -513,7 +513,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 3433;CED-sky;Ceduna;CEDA-sky;Ceduna;AU-sky;Australia
 21278;TJR-sky;Ceiba;CEIB-sky;NULL;PR-sky;Puerto Rico
 17970;CEM-sky;Central;CEMA-sky;Central;US-sky;United States
-6;XCR-sky;Ch̢lons-en-Champagne;XCRA-sky;NULL;FR-sky;France
+6;XCR-sky;ChÌ¢lons-en-Champagne;XCRA-sky;NULL;FR-sky;France
 1241;CDR-sky;Chadron;CDRA-sky;Chadron;US-sky;United States
 3227;ZBR-sky;Chah-Bahar;ZBRA-sky;Chah Bahar;IR-sky;Iran
 691;CMF-sky;Chambery;CHAM-sky;Chambery;FR-sky;France
@@ -844,7 +844,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 326;FRE-sky;Fera Island;FREA-sky;Fera Island;SB-sky;Solomon Islands
 1308;FEG-sky;Fergana;FEGA-sky;Fergana;UZ-sky;Uzbekistan
 6738;FEN-sky;Fernando De Noronha;FENA-sky;Fernando De Noronha;BR-sky;Brazil
-11211;FEZ-sky;Fes-Sa��ss;FEZS-sky;Fes;MA-sky;Morocco
+11211;FEZ-sky;Fes-SaÌøss;FEZS-sky;Fes;MA-sky;Morocco
 175;FSC-sky;Figari Sud Corse;FIGA-sky;Figari;FR-sky;France
 707;FIZ-sky;Fitzroy Crossing;FIZA-sky;Fitzroy Crossing;AU-sky;Australia
 6579;YFO-sky;Flin Flon;YFOA-sky;Flin Flon;CA-sky;Canada
@@ -860,7 +860,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 424;FOG-sky;Foggia Gino Lisa;FOGG-sky;Foggia;IT-sky;Italy
 6847;FLD-sky;Fond Du Lac;FLDA-sky;NULL;US-sky;United States
 2611;FDE-sky;Forde Bringeland;FORD-sky;Forde;NO-sky;Norway
-15896;FRL-sky;Forl��;FORL-sky;Forli;IT-sky;Italy
+15896;FRL-sky;ForlÌÂ;FORL-sky;Forli;IT-sky;Italy
 765;YFA-sky;Fort Albany;YFAA-sky;Fort Albany;CA-sky;Canada
 78;FDF-sky;Fort De France;FDFA-sky;Fort De France;MQ-sky;Martinique
 79;YAG-sky;Fort Frances;YAGA-sky;Fort Frances;CA-sky;Canada
@@ -1247,7 +1247,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 1316;IZA-sky;Juiz De Fora;JDFA-sky;Juiz De Fora;BR-sky;Brazil
 900;JCK-sky;Julia Creek;JCKA-sky;Julia Creek;AU-sky;Australia
 6718;JNU-sky;Juneau;JNUA-sky;Juneau;US-sky;United States
-5198;KZR-sky;K�_tahya;KUTH-sky;NULL;TR-sky;Turkey
+5198;KZR-sky;KÌ_tahya;KUTH-sky;NULL;TR-sky;Turkey
 14525;KBL-sky;Kabul;KBLA-sky;Kabul;AF-sky;Afghanistan
 10100;KAD-sky;Kaduna;KADA-sky;NULL;NG-sky;Nigeria
 3302;KOJ-sky;Kagoshima;JKOJ-sky;Kagoshima;JP-sky;Japan
@@ -1352,7 +1352,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 3171;KPN-sky;Kipnuk;KPNA-sky;Kipnuk;US-sky;United States
 13642;IRA-sky;Kirakira;IRAA-sky;Kirakira;SB-sky;Solomon Islands
 945;KCK-sky;Kirensk;KIRE-sky;NULL;RU-sky;Russia
-3212;KKN-sky;Kirkenes H��ybuktmoen;KIRK-sky;Kirkenes;NO-sky;Norway
+3212;KKN-sky;Kirkenes HÌüybuktmoen;KIRK-sky;Kirkenes;NO-sky;Norway
 7026;IRK-sky;Kirksville;IRKA-sky;Kirksville;US-sky;United States
 17133;KVX-sky;Kirov;KIRQ-sky;Kirov;RU-sky;Russia
 29892;KVK-sky;Kirovsk;KIRP-sky;NULL;RU-sky;Russia
@@ -1362,7 +1362,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 15947;KTL-sky;Kitale;KTLA-sky;NULL;KE-sky;Kenya
 9048;YKF-sky;Kitchener / Waterloo;YKFA-sky;Toronto;CA-sky;Canada
 17186;KIT-sky;Kithira;KITH-sky;Kythira;GR-sky;Greece
-8973;KTT-sky;Kittil�_;KITT-sky;Kittila;FI-sky;Finland
+8973;KTT-sky;KittilÌ_;KITT-sky;Kittila;FI-sky;Finland
 26970;KIW-sky;Kitwe;KIWA-sky;Kitwe;ZM-sky;Zambia
 4406;KLU-sky;Klagenfurt;KLAG-sky;Klagenfurt;AT-sky;Austria
 14466;KLW-sky;Klawock;KLWA-sky;Klawock;US-sky;United States
@@ -1729,7 +1729,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 9535;MELA-sky;Melbourne;MELA-sky;NULL;AU-sky;Australia
 478;MLN-sky;Melilla;MELI-sky;Melilla;ES-sky;Spain
 21030;MMB-sky;Memanbetsu;JMMB-sky;Memanbetsu;JP-sky;Japan
-7629;FMM-sky;Memmingen Allg�_u;MEMB-sky;Memmingen;DE-sky;Germany
+7629;FMM-sky;Memmingen AllgÌ_u;MEMB-sky;Memmingen;DE-sky;Germany
 9493;MEM-sky;Memphis International;MEMA-sky;Memphis;US-sky;United States
 28139;MDZ-sky;Mendoza;MDZA-sky;Mendoza;AR-sky;Argentina
 34890;SPP-sky;Menongue;SPPA-sky;Menongue;AO-sky;Angola
@@ -2486,7 +2486,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 4920;VXE-sky;Sao Vicente;VXEA-sky;Sao Vicente Island;CV-sky;Cape Verde
 2841;CTS-sky;Sapporo Chitose;SPKA-sky;Sapporo;JP-sky;Japan
 1236;SSR-sky;Sara;SSRV-sky;Sara;VU-sky;Vanuatu
-35509;SARA-sky;Sarajevo;SARA-sky;Sarajevo;BA-sky;Bosnie-Herz̩govine
+35509;SARA-sky;Sarajevo;SARA-sky;Sarajevo;BA-sky;Bosnie-HerzÌ©govine
 5243;SLK-sky;Saranac Lake;SLKA-sky;Saranac Lake;US-sky;United States
 30025;SKX-sky;Saransk;SARC-sky;NULL;RU-sky;Russia
 9857;SRQ-sky;Sarasota;SRQA-sky;Sarasota;US-sky;United States
@@ -2627,7 +2627,7 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 186;YSF-sky;Stony Rapids;YSFA-sky;Stony Rapids;CA-sky;Canada
 185;SRV-sky;Stony River;SRVA-sky;Stony River;US-sky;United States
 14077;SRP-sky;Stord;STOS-sky;Stord;NO-sky;Norway
-6487;SYY-sky;Stornoway;STOR-sky;Stornoway, Outer Stat Hebrides;UK-sky;United Kingdom
+6487;SYY-sky;Stornoway;STOR-sky;Stornoway Outer Stat Hebrides;UK-sky;United Kingdom
 7083;SXB-sky;Strasbourg;STRA-sky;Strasbourg;FR-sky;France
 6488;SOY-sky;Stronsay;SOYA-sky;Stronsay;UK-sky;United Kingdom
 29139;YRR-sky;Stuart Island;YRRA-sky;NULL;CA-sky;Canada
@@ -2787,12 +2787,12 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 21108;TTJ-sky;Tottori;JTTJ-sky;Tottori;JP-sky;Japan
 12514;TGR-sky;Touggourt;TGRA-sky;NULL;DZ-sky;Algeria
 12513;TOU-sky;Touho;TOUN-sky;Touho;NC-sky;New Caledonia
-11417;TLN-sky;Toulon-Hy̬res;TOUL-sky;Toulon;FR-sky;France
+11417;TLN-sky;Toulon-HyÌ¬res;TOUL-sky;Toulon;FR-sky;France
 1491;TLS-sky;Toulouse;TOUS-sky;Toulouse;FR-sky;France
 6998;TUF-sky;Tours;TOUR-sky;Tours;FR-sky;France
 35507;TSVA-sky;Townsville;TSVA-sky;Townsville;AU-sky;Australia
 21097;TOY-sky;Toyama;JTOY-sky;Toyama;JP-sky;Japan
-2130;TJL-sky;Tr̻s Lagoas;TJLA-sky;Tres Lagoas;BR-sky;Brazil
+2130;TJL-sky;TrÌ»s Lagoas;TJLA-sky;Tres Lagoas;BR-sky;Brazil
 5162;TZX-sky;Trabzon;TRAB-sky;Trabzon;TR-sky;Turkey
 13323;YZZ-sky;Trail;YZZA-sky;Trail;CA-sky;Canada
 9041;TST-sky;Trang;TSTT-sky;Trang;TH-sky;Thailand
@@ -3078,5 +3078,5 @@ id;placeId;placeName;cityId;cityName;countryId;countryName
 5239;OUZ-sky;Zouerate;OUZA-sky;Zouerate;MR-sky;Mauritania
 1442;ZYI-sky;Zunyi;CZYI-sky;NULL;CN-sky;China
 749;ZRH-sky;Zurich;ZURI-sky;Zurich;CH-sky;Switzerland
-3306;ZQW-sky;Zweibr�_cken;ZQWA-sky;Saarbruecken;DE-sky;Germany
+3306;ZQW-sky;ZweibrÌ_cken;ZQWA-sky;Saarbruecken;DE-sky;Germany
 5242;ZKP-sky;Zyryanka Airport;ZKPC-sky;NULL;RU-sky;Russia
